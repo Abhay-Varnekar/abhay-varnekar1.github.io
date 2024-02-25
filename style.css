@@ -3,7 +3,7 @@ BODY{
     text-transform: uppercase;
     font-family:'Avenir LT W01 55 Roman'  ;
     overflow-x: hidden;
-    overflow-y:hidden;
+    
    text-align: justify;
 }
 .photo{
