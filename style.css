@@ -3,6 +3,7 @@ BODY{
     text-transform: uppercase;
     font-family:'Avenir LT W01 55 Roman'  ;
     overflow-x: hidden;
+    overflow-y:hidden;
    text-align: justify;
 }
 .photo{
@@ -301,7 +302,7 @@ p{
     z-index: 0;
     color: #ad6a6a;
 }.education8{
-    
+    height: 20px;
     width:200px;
     background-color: #D8DBE2; 
     border: 0px solid #ffffff;
